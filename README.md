@@ -4,17 +4,44 @@ Welcome to the **Python Playlist** repository! This is a comprehensive guide for
 
 ---
 
-## Playlist Overview
+## 🐍 Install Python Using Miniconda / Miniforge
 
-This playlist covers a wide range of topics, including:
+To keep your Python projects clean and isolated, it's recommended to use **conda environments**. Below are the steps to install Miniforge and create a new Python environment.
 
--   **Basic Python Concepts**: Get started with Python, including installation, variables, data types, and basic operations.
--   **Advanced Python Concepts**: Dive deep into object-oriented programming (OOP), decorators, generators, multi-threading, and more.
--   **Practical Python**: Learn to solve problems and build efficient Python code through hands-on examples.
+### 🔗 Download Miniforge for macOS (ARM64)
+
+Download from the official repository:  
+https://github.com/conda-forge/miniforge
+
+### 💻 Install Miniforge
+
+Run the following commands in your terminal:
+
+```bash
+chmod +x ~/Downloads/Miniforge3-MacOSX-arm64.sh
+sh ~/Downloads/Miniforge3-MacOSX-arm64.sh
+source ~/miniforge3/bin/activate
+```
+
+🧱 Create a project-specific conda environment
+
+```bash
+conda create --prefix ./env python=3.14
+conda activate ./env
+```
+
+📦 Install packages from requirements.txt
+If your project contains a requirements file, install dependencies using:
+
+```bash
+pip install -r requirements.txt
+```
+
+That’s it! Your Python environment is ready to roll 🚀
 
 ---
 
-## Playlist Breakdown (Updated)
+## Playlist Breakdown
 
 ### 1. **Basics of Python | Jump Straight Into Python! No Installation, Just Code 💻**
 
