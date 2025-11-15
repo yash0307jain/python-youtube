@@ -46,7 +46,6 @@ That’s it! Your Python environment is ready to roll 🚀
 ### 1. **Basics of Python | Jump Straight Into Python! No Installation, Just Code 💻**
 
 -   Introduction to Python.
--   Running Python without installation via online compilers.
 
 ### 2. **Mutable & Immutable in Python Explained with Code**
 
