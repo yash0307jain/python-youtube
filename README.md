@@ -11,7 +11,7 @@ To keep your Python projects clean and isolated, it's recommended to use **conda
 ### 🔗 Download Miniforge for macOS (ARM64)
 
 Download from the official repository:  
-https://github.com/conda-forge/miniforge
+https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-arm64.sh
 
 ### 💻 Install Miniforge
 
