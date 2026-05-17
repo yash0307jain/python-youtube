@@ -1,4 +1,4 @@
-# Python Playlist: Learn Python from Basics to Advanced
+# Python Series: Learn Python from Basics to Advanced
 
 Welcome to the **Python Playlist** repository! This is a comprehensive guide for learning Python, starting from the basics all the way to advanced topics. Each video in the playlist will help you understand the key concepts in Python and demonstrate them with practical examples.
 
