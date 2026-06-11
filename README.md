@@ -182,8 +182,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Stay Connected
 
--   [YouTube Channel](https://www.youtube.com/@yashjaincodex)
--   [LinkedIn](https://www.linkedin.com/in/yashjaincodex)
+-   [YouTube Channel](https://www.youtube.com/@yashjainio)
+-   [LinkedIn](https://www.linkedin.com/in/yashjainio)
 
 ---
 
